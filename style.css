@@ -1,0 +1,130 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'verdana', sans-serif;
+}
+.menu{
+	background: url('img/ItalianPizza.jpeg') no-repeat center;
+	padding: 250px;
+
+}
+
+.container: {
+	max-width: 960px;
+	margin: 0 auto;
+	font-size:24px;
+	background: #f9f9f9;
+	padding: 40px;
+}
+
+
+
+.parallax {
+    padding: 300px;
+    background: transparent;
+
+	
+}
+
+.icon{
+	float: left;
+	margin-left: 20px;
+	background:url('img/valenceicon.png') no-repeat;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: transparent;
+  float: right;
+  font-size: 15px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.bigName{
+	margin:50;
+}	
+
+.box2 {
+	margin:10px;
+	padding: fixed;
+}
+
+.reserve{
+	margin:40px;
+	padding: 10px;
+	height: 300px;
+	width: 500px;
+	font-size: 25px;
+	box-sizing: border-box;
+
+}
+
+
+.button {
+  background: transparent;
+  border: none;
+  color: grey;
+  border: 2px solid grey;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  width: 250px;
+}
+
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+.about{
+	margin: 10px;
+  	padding:0;
+  	position: relative;
+  	display: inline;
+	
+
+}
