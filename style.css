@@ -1,7 +1,7 @@
 body{
 	margin: 0px;
 	padding: 0px;
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-family: Perpetua,Baskerville,Big Caslon,Palatino Linotype,Palatino,URW Palladio L,Nimbus Roman No9 L,serif;
 }
 .menu{
 	background: url('img/ItalianPizza.jpeg') no-repeat center;
@@ -20,7 +20,7 @@ body{
 
 
 .parallax {
-    padding: 350px;
+    padding: 325px;
     margin-top: 80px;
     background: transparent;
 
@@ -40,7 +40,7 @@ ul {
   overflow: hidden;
   background: transparent;
   float: right;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 li {
@@ -70,8 +70,8 @@ li a:hover {
 }
 
 .reserve{
-	margin:40px;
-	padding: 10px;
+	margin:60px 70px;
+	padding: 20px;
 	height: 300px;
 	width: 500px;
 	font-size: 25px;
@@ -91,6 +91,8 @@ li a:hover {
   display: inline-block;
   font-size: 24px;
   width: 250px;
+  cursor:pointer;
+  transition: all 0.5s;
 }
 
 
@@ -126,7 +128,7 @@ li a:hover {
   	padding:10px;
   	height: 300px;
 	width: 700px;
-	font-size: 20px;
+	font-size: 25px;
   	position: relative;
   	display: inline-block;
 	}
@@ -155,6 +157,7 @@ li a:hover {
   	height: 300px;
   	align-content: center;
   	display: inline-block;
+  	font-size: 20px;
  
  
 }
@@ -168,11 +171,12 @@ li a:hover {
  	padding: 0px 10px;
  	margin-top: 110px;
 	margin-left: -5px;
+	margin-bottom: 30px;
   	width: 25%;
   	height: 300px;
   	align-content: center;
   	display: inline-block;
-
+	font-size: 20px;
 
 }
 
@@ -217,4 +221,11 @@ h2{
   content: "";
   display: table;
   clear: both;
+}
+
+
+.menus h1{
+	font-size: 80px;
+	font-weight: bold;
+
 }
