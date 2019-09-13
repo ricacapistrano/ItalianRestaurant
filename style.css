@@ -60,6 +60,7 @@ li a:hover {
   background-color: #111;
 }
 
+
 .bigName{
 	margin:50;
 }	
@@ -199,6 +200,7 @@ li a:hover {
 }
 h2{
 	text-align: center;
+	  font-family: 'Libre Baskerville';
 }
 
 /* Create four equal columns that floats next to each other */
@@ -227,5 +229,10 @@ h2{
 .menus h1{
 	font-size: 80px;
 	font-weight: bold;
+
+}
+
+.ContactUs{
+	margin-left: 500px;
 
 }
