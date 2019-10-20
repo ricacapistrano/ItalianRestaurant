@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"fons",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"sec",
+				"secondParagraph"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"baco",
+				"background-color\tproperty"
+			],
+			[
+				"bacc",
+				"background-color\tproperty"
+			],
+			[
+				"search",
+				"search-box"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"top",
+				"Top-Bar"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"con",
+				"countdownNumber"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"BACK",
+				"background-image\tproperty"
+			],
+			[
+				"rand",
+				"randomNumber"
+			],
+			[
+				"count",
+				"countdownNumber"
+			],
+			[
+				"margn",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"out",
+				"outline\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"teal",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"character",
+				"character1"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"boxs",
+				"box-shadow\tproperty"
+			],
+			[
+				"outl",
+				"outline-color\tproperty"
+			],
+			[
+				"bordercl",
+				"border-color\tproperty"
+			],
+			[
+				"bordr",
+				"border-radius\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"bgco",
+				"background-color\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"red",
+				"Red"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"c",
+				"c\tcolor: #${1:000};"
+			],
+			[
+				"gan",
+				"Gang"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"profile",
+				"profile2"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			".sublime-menu",
+			"Main.sublime-menu"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ricac/Desktop/Complete Web Developer course/5-bootstrap/bootstrap.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/5-bootstrap/boot.html",
+		"/C/Users/ricac/Documents/GitHub/ItalianRestaurant/index.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/4-JQuery/formvalidation.html",
+		"/C/Users/ricac/Documents/GitHub/group/script.js",
+		"/C/Users/ricac/Documents/GitHub/group/index.html",
+		"/C/Users/ricac/Documents/GitHub/group/style.css",
+		"/C/Users/ricac/Documents/GitHub/ItalianRestaurant/style.css",
+		"/C/Users/ricac/Desktop/Projects/parallax/parallaxjs/style.css",
+		"/C/Users/ricac/Desktop/Projects/parallax/parallaxjs/parallaxjs.html",
+		"/C/Users/ricac/Desktop/Projects/parallax/parallaxcss/style.css",
+		"/C/Users/ricac/Desktop/Projects/parallax/parallaxcss/parallaxcss.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/4-JQuery/jquery.html",
+		"/C/Users/ricac/Desktop/Projects/parallax/style.css",
+		"/C/Users/ricac/Desktop/Projects/parallax/parallaxcss.html",
+		"/C/Users/ricac/Dropbox/webdevelopment/parallax/parallaxcss.html",
+		"/C/Users/ricac/Dropbox/webdevelopment/parallax/style.css",
+		"/C/Users/ricac/Desktop/Projects/BurgerJoint/burgeralley.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/3-javascript/loops.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/3-javascript/whileloop.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/3-javascript/Fingers.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/3-javascript/colourloop.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/3-javascript/array.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/3-javascript/whatIf.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/3-javascript/variable.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/3-javascript/circles.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/3-javascript/javascriptbuttons.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/2-css/bojack.css",
+		"/C/Users/ricac/Documents/GitHub/cartoon-hero/index.html",
+		"/C/Users/ricac/Documents/GitHub/cartoon-hero/css/hero-alt-1.css",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/2-css/webpage-with-style.html",
+		"/C/Users/ricac/Desktop/Complete Web Developer course/1-html/helloworld.html",
+		"/C/Users/ricac/Documents/GitHub/portfoliowebsite/index.html",
+		"/C/Users/ricac/Documents/GitHub/portfoliowebsite/css/style.css",
+		"/C/Users/ricac/Documents/GitHub/cartoon-hero/css/hero.css",
+		"/C/Users/ricac/Documents/GitHub/js-rocket/rocket.html",
+		"/C/Users/ricac/Documents/GitHub/js-rocket/index.html",
+		"/C/Users/ricac/Documents/GitHub/js-rocket/js/script.js",
+		"/C/Users/ricac/Documents/GitHub/js-rocket/css/rocket.css",
+		"/C/Users/ricac/Documents/GitHub/js-rocket/js/rocket.js",
+		"/C/Users/ricac/Documents/GitHub/js-rocket/css/rocket.html",
+		"/C/Users/ricac/Documents/GitHub/js-rocket/css/style.css",
+		"/C/Users/ricac/Documents/GitHub/js-rocket/js-rocket.html",
+		"/C/Users/ricac/Documents/GitHub/group/test.html",
+		"/C/Users/ricac/Documents/GitHub/group/test-stylish.css",
+		"/C/Users/ricac/Downloads/Package Control.sublime-package",
+		"/C/Users/ricac/Documents/GitHub/cartoon-hero/css/index.html",
+		"/C/Users/ricac/Documents/GitHub/cartoon-hero/css/test.css",
+		"/C/Users/ricac/Documents/GitHub/cartoon-hero/stylish.HTML",
+		"/C/Users/ricac/Documents/GitHub/cartoon-hero/elements.html",
+		"/C/Users/ricac/Documents/GitHub/cartoon-hero/test.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 126.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
