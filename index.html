@@ -1,204 +1,79 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-   <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <title>Italian Restaurant</title>
-
-<style type="text/css">
-
-  body{
-   background-color: #343a40;
-  }
-  
-   .jumbotron{
-    background-image: url(img/ItalianPizza.jpeg);
-    text-align: center;
-    color: white;
-    font-weight: bold;
-   }
-
-  #container{
-      
-      margin-top: -50px;
-      padding:90px;
-
-  }
-
-   .card-img-top {
-              
-              width: 100%;
-              
-          }
-
-  .Menu{
-
-    padding: 0 auto;
-    margin-top: 5px;
-    margin-bottom: 50px;
-    color: white;
-    text-align: center;
-  }
-
-.waiter img{
-    height: 400px;
-    width: 500px;
-
-
-}
-    #newsimg{
-      color: white;
-      height: 100px;
-        width: 800px;
-        margin-top: 30px;
-
-      
-    }
-
-    #news {
-
-      margin-top: 50px;
-      margin-bottom: 50px;
-      color: white;
-      text-align: center;
-      padding: 0 auto
-    }
-
-    .footer{
-        background-color: #0e0e0f;
-              margin-top: 150px;
-              text-align: center;
-              padding-bottom: 150px;
-              color: white;
-              padding: 50px;
-          }
-        
-
-</style>
-
+	<link rel="stylesheet" type="text/css" href="vendor/css/Grid.css">
+	<link rel="stylesheet" type="text/css" href="vendor/css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="resource/css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600|Varela+Round&display=swap" rel="stylesheet"> 
+	<title>Italian Restaurant</title>	
 </head>
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">Italian Restaurant</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Menu</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">Our Story</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link " href="#">Reservation</a>
-       </li>
-    </ul>
-  </div>
-</nav>
-
-<div class="jumbotron">
-  <div id="container">
-  <h1 class="display-1">Italian Restaurant</h1>
-  <p class="lead">Italian Specialisties. Made from fresh ingredients.</p>
-  <hr class="my-2">
-  <p class="lead">It uses utility classes for typography and spacing to space content out within the larger container.</p>
-  <a class="btn btn-primary btn-lg" href="#" role="button">Reserve a Table</a>
-  </div>
-  </div>
-</div>
-
-<div class="Menu"><h1 class="display-3">Our Menu</h1>
-<p class="m-y-2">The original Italian Pizza.Serving great pizza from our family to yours.</p> 
-</div>
-
-<div class="container" id="Menu">
-<div class="card-deck">
-  <div class="card" >
-    <img src="img/peperoni.jpg" class="card-img-top" alt="Card img top" >
-    <div class="card-body">
-      <h5 class="card-title">Peperoni Pizza</h5>
-      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="img/peperoni.jpg" class="card-img-top" alt="Card img top">
-    <div class="card-body">
-      <h5 class="card-title">Peperoni Pizza</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-
-  <div class="card">
-    <img src="img/peperoni.jpg" class="card-img-top" alt="Card img top" >
-    <div class="card-body">
-      <h5 class="card-title">Peperoni Pizza</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-</div>
-</div>
-<hr class="my-2">
-
-
-
-  <div  id="news"><h1 class="display-3">Our Story</h1>
-<p class="m-y-2">Stories That Count, From People Who Care</p> 
-</div>
-
-
-<div class="col-xs-1" align="center">
-  <span>
-<div class="waiter"> <img src="img/waiter.jpeg" ></div>
-<div id="newsimg">
-  <hr class="my-2">
-  <p class="m-y-3" class="text-center"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer enim neque volutpat ac tincidunt vitae. Blandit aliquam etiam erat velit. Porta lorem mollis aliquam ut porttitor leo. Commodo nulla facilisi nullam vehicula ipsum a. In hendrerit gravida rutrum quisque non tellus. Ornare quam viverra orci sagittis eu volutpat odio facilisis. Malesuada fames ac turpis egestas maecenas. Ultricies integer quis auctor elit sed. Neque gravida in fermentum et sollicitudin ac orci phasellus. Consectetur libero id faucibus nisl tincidunt eget nullam non. Quisque id diam vel quam elementum pulvinar etiam non quam. Tellus elementum sagittis vitae et leo duis ut. Id consectetur purus ut faucibus. Vulputate ut pharetra sit amet aliquam. Massa tempor nec feugiat nisl pretium fusce. Bibendum enim facilisis gravida neque convallis. Sit amet purus gravida quis. Adipiscing at in tellus integer feugiat.
-</p>
-</span>
-</div>
-
-
-</div>
-
-
-<footer >
-    <div class="footer">
-      <div class="col-xs-1" align="center">
-        <p class="display-4">Follow us:</p>
-       <img src="img/facebook.png">  
-        <img src="img/twitter.png">
-         <img src="img/instagram.png">      
-
-</div>
-
-    </div>
-
-
-</footer>
 
 
 <body>
 
- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<header>
+		<nav>
+			<div class="row">
+				<img src="resource/img/valenceicon.png" alt="Valence" class="logo">
+				<ul class="main-nav">
+					<li><div class="dot"></div><a href="#">Shop</a></li>
+					<li><div class="dot"></div><a href="#">Recipes</a></li>
+					<li><div class="dot"></div><a href="#">News</a></li>
+					<li><div class="dot"></div><a href="#">About Valence</a></li>
+					<li><div class="dot"></div><a href="#">Contact</a></li>
+				</ul>
+			</div>
+		</nav>
+
+			<div class="Hero-text-box">
+				<img src="resource/img/SFORNO.png">
+			</div>
+	</header>
 
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 
+	<section class="section-details">
+		<div class="row">
+			<div class="col-reservation box">
+				<img src="resource/img/reservations.png" class="icon-details ">
+				<p>Lorem ipsum dolor sit amet, <br>consectetur adipiscing elit, <br>sed do eiusmod tempor incididunt ut  </p>
+				<div class="btn-reserved"><a href="#" class="btn-ghost"> <span>Book A Table</span></a></div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col--img-reservation">
+				<img src="resource/img/vintage-table.jpg" class="img-reservation" alt="restaurant">
+			</div>
+			<div class="row">
+			<div class="col-img-about">
+				<img src="resource/img/waiter.jpeg" >
+			</div>
+	</section>
 
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<!--
 
+	<section class="section-details clearfix">
+		<div class="row">
+			<div class="col span-1-of-2 box col-reservation">
+				<img src="resource/img/reservations.png" class="icon-details ">
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+				<div class="btn-reserved"><a href="#" class="btn-ghost"> <span>Book A Table</span></a></div>
+			</div>
+			<div class="col span-1-of-2 box interior-img" alt="interior">
+				<img src="resource/img/vintage-table.jpg">
+			</div>
+			<div class="col span-1-of-2 box service-img" alt="interior">
+				<img src="resource/img/waiter.jpeg" >
+			</div>
+			<div class="col span-1-of-2 box service-p" alt="service">
+				<img src="resource/img/about.png" class="icon-details">
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+			</div>
+		</div>
+	</section>
+
+-->
+
+	
 </body>
 </html>

@@ -1,0 +1,194 @@
+/* -------------------------------------*/
+/* Basic Setup */
+/* -------------------------------------*/
+
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,
+body{
+	background-color: #fff;
+	color: #555;
+	font-family: 'Varela Round', 'Montserrat', 'Arial', sans-serif;
+	font-weight: 300;
+ 	font-size: 20px;
+ 	text-rendering: optimizeLegibility;
+ 	overflow-x: hidden;
+}
+
+
+
+/* -------------------------------------*/
+/* REUSABLE COMPONENTS */
+/* -------------------------------------*/
+
+.row{ 
+	max-width:1500px;
+ 	margin:0 auto;
+ }
+
+ header{
+ 	background-image: linear-gradient(rgba(0, 0, 0, 0.10), rgba(0, 0, 0, 0.10)), url(img/ItalianPizza.jpeg);
+ 	background-size: cover;
+ 	background-position: center;
+ 	height: 100vh;
+ 	background-attachment: fixed;
+
+ }
+
+
+.Hero-text-box img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+
+
+
+ /* -------------------------------------*/
+/* ICON */
+/* -------------------------------------*/
+
+
+.logo{
+	width: 150px;
+	margin-top: 13px;
+}
+
+
+/* NAVIGATION */
+
+.main-nav{
+	float: right;
+ 	list-style: none;
+ 	margin-top: 30px;
+ 	
+}
+
+.main-nav li{
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited{
+	padding: 8px 0;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 90%;
+	border-bottom: transparent;
+	transition: border-bottom 0.2s; 
+}
+
+.main-nav li a:hover,
+.main-nav li a:active{
+	border-bottom: 2px solid  #72562b;
+}
+
+.dot{
+	background-color: #594322;
+	padding: 4px;
+	width: 4px;
+	height: auto;
+	border-radius: 100%;
+	float:left;	
+	margin-right: 10px;
+	margin-top: 6px;
+}
+
+/*----ABOUT PAGE----*/
+
+.section-details{
+
+}
+
+.col-reservation {
+	width: 35%;
+	height: auto;
+	padding: 0;
+	margin:-top:180px;
+	margin-left: -30px;
+}
+
+.col--img-reservation img{
+	padding: 0;
+	margin: 0;
+	width: 70%;
+	height: 500px;
+	margin-right: -90px;
+	margin-top: -338px;
+	float: right;
+}
+
+.col-img-about img{
+	width: 39%;
+	height: 200%;
+	padding: 0;
+	margin-top:160px;
+	margin-left: -45px;
+	display: inline-block;
+}
+
+
+.icon-details{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.box p {
+	text-align: center;
+}
+
+
+/*---Button---*/
+
+.btn-reserved{
+	margin-top: 80px; 
+	margin-left: 115px;
+}
+
+.btn-reserved a{
+	background-color: #efefef;
+	text-decoration: none;
+	padding: 20px 95px;
+	color: #b08b20;
+	font-size: 100%;
+	text-align: center;
+	 border-radius: 5px;
+	border: 1px solid #685213;
+	transition: all 0.5s;
+  	cursor: pointer;
+}
+
+.btn-reserved span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.btn-reserved span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.btn-reserved:hover span {
+  padding-right: 25px;
+}
+
+.btn-reserved:hover span:after {
+  opacity: 1;
+  right: 0
